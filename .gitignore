@@ -1,0 +1,8 @@
+.env
+.env.local
+node_modules/
+.venv/
+*.pyc
+__pycache__/
+*.xlsx
+.DS_Store
